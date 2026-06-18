@@ -1,0 +1,2 @@
+# to-do-list1
+Simple To-Do List App using HTML, CSS, and JavaScript
